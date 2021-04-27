@@ -17,9 +17,9 @@
 
 ---
 
-### Category Name 2
+### Professional Projects -- Presentation
 
-- [Project 1 Title](http://example.com/)
+- [Optimising Deep Learning Object Detection](https://github.com/Oushesh/opti-vid/blob/main/README.md)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
@@ -27,6 +27,13 @@
 
 ---
 
+### TUM Projects
+
+- [Optimising Deep Learning Object Detection](https://github.com/Oushesh/opti-vid/blob/main/README.md)
+- [Project 2 Title](http://example.com/)
+- [Project 3 Title](http://example.com/)
+- [Project 4 Title](http://example.com/)
+- [Project 5 Title](http://example.com/)
 
 
 
