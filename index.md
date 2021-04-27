@@ -6,7 +6,6 @@
 
 [toySLAM](https://github.com/Oushesh/toySLAM)
 <img src="https://github.com/Oushesh/toySLAM/blob/main/documentation/good_SLAM/good_SLAM_cam001.png"/>
-<img src="https://github.com/Oushesh/toySLAM/blob/main/documentation/camera005.png"/>
 ---
 [toyBundleAdjustmentTUM](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
