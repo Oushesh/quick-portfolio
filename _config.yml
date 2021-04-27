@@ -1,9 +1,11 @@
-title: John Doe # your name (or website title) here
+title: Oushesh Haradhun # your name (or website title) here
 logo: "/images/linkedin.jpeg" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+description: > # 
+  Computer Vision and Artificial Intelligence Enthusiast <br>
+  I am full stack Deep Learning Engineer. I recently grown from purely R&D Deep Learning Engineer in Object Detection, Image Segmentation, 3D Computer vision
+  to being fully focussed in End to End systems: adding Compression of Neural Networks and Nvidia DeepStream into my arsenal.
   <br><br>
-  Second description 
+  "Simplicity is the ultimate sophistication." Leonardo Da Vinci 
   <br><br>
   <a href="https://www.linkedin.com/in/oushesh/">View My LinkedIn Profile</a> 
   
