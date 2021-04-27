@@ -4,7 +4,7 @@
 
 ### ToySLAM inspired by the Famous american Hacker: George Hotz 
 
-[toySLAM](/https://github.com/Oushesh/toySLAM)
+[toySLAM](https://github.com/Oushesh/toySLAM)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -12,8 +12,8 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Tennis-AI](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Tennis-AI](https://github.com/Oushesh/tennis-count/blob/main/score_count/readme.md)
+<img src="images/tennis_court_edge.jpg>
 
 ---
 
