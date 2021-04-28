@@ -5,14 +5,14 @@
 ## ToySLAM inspired by the Famous american Hacker: George Hotz 
 
 [toySLAM](https://github.com/Oushesh/toySLAM)
-#<img src="https://github.com/Oushesh/toySLAM/blob/main/documentation/good_SLAM/good_SLAM_cam001.png"/>
+
 ---
 [toyBundleAdjustmentTUM](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 [Tennis-AI](https://github.com/Oushesh/tennis-count/blob/main/score_count/readme.md)
-<img src="images/tennis_court_edge.jpg">
+
 
 ---
 
