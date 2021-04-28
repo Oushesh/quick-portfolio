@@ -27,7 +27,7 @@
 ---
 ## TUM Projects
 - [Optimising Deep Learning Object Detection](https://github.com/Oushesh/opti-vid/blob/main/README.md)
-- [Project 2 Title](http://example.com/)
+- [Transformer Based Object Detection -- Facebook Paper](https://www.geeksforgeeks.org/object-detection-with-detection-transformer-dert-by-facebook/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
