@@ -8,7 +8,7 @@
 
 ---
 [toyBundleAdjustmentTUM](/pdf/sample_presentation.pdf)
-
+![Demo]("images/slam_test.mp4")
 
 ---
 [Tennis-AI](https://github.com/Oushesh/tennis-count/blob/main/score_count/readme.md)
