@@ -12,7 +12,7 @@
 
 ---
 [Tennis-AI](https://github.com/Oushesh/tennis-count/blob/main/score_count/readme.md)
-<img src="https://github.com/Oushesh/tennis-count/blob/main/score_count/Documentation/tennis_court_edge.jpg">
+<img src="images/tennis_court_edge.jpg">
 
 ---
 
