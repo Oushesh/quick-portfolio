@@ -19,7 +19,7 @@
 ## Professional Projects -- Presentation
 
 - [Optimising Deep Learning Object Detection](https://github.com/Oushesh/opti-vid/blob/main/README.md)
-- [Project 2 Title](http://example.com/)
+- [Making Things Fast](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
