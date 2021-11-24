@@ -13,7 +13,6 @@
 ---
 [Tennis-AI](https://github.com/Oushesh/tennis-count/blob/main/score_count/readme.md)
 
-
 ---
 
 ## Artistic Engineering (inspired by the likes: )
@@ -23,6 +22,15 @@
    [Demo] https://photos.google.com/photo/AF1QipOVP562RGcpYiESdBpT1uWKJJ4aSLeJaKki1UHM
 
    2. Data Capturing via Video   
+      I have always been of the belief that an AI company should 
+      have a video data capturing pipeline rather than an image based one. In principle, one can gather more insights
+      and see how ML models perform in practice and even write automated insight tools for that purpose.
+
+      For this example I inspired to develop a video data gathering tool with semi-automatic segmentation tool.
+      Here the object was: shoes.
+      
+
+
 ## Professional Projects -- Presentation
 
 - [Optimising Deep Learning Object Detection](https://github.com/Oushesh/opti-vid/blob/main/README.md)
