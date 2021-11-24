@@ -16,6 +16,8 @@
 
 ---
 
+## Artistic Engineering (inspired by the likes of )
+   Machine Learning Data Annotation is a boring job for the annotators nonetheless really important for any AI first company. At my current company, there was need
 ## Professional Projects -- Presentation
 
 - [Optimising Deep Learning Object Detection](https://github.com/Oushesh/opti-vid/blob/main/README.md)
@@ -23,6 +25,7 @@
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
+- 
 
 ---
 ## TUM Projects
