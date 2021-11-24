@@ -19,7 +19,7 @@
    1. Machine Learning Data Annotation is a boring job for the annotators nonetheless really important for any AI first company. At my current company, I proposed to enhance the 
    segmentation process and alleviate the boring tasks of 
    annotators and simultaneously saving lots of money in the process. 
-   [Demo] https://photos.google.com/photo/AF1QipOVP562RGcpYiESdBpT1uWKJJ4aSLeJaKki1UHM
+   ![Demo](https://photos.google.com/photo/AF1QipOVP562RGcpYiESdBpT1uWKJJ4aSLeJaKki1UHM)
 
    2. Data Capturing via Video   
       I have always been of the belief that an AI company should 
@@ -28,9 +28,12 @@
 
       For this example I inspired to develop a video data gathering tool with semi-automatic segmentation tool.
       Here the object was: shoes.
+
+      ![Input](https://photos.google.com/photo/AF1QipNbApEPOfwL8q_OfkfZSSHDuWVCgyTrxoO6OLp6)
+      ![Output](https://photos.google.com/photo/AF1QipPLbX5-ixCQeljRuQiWsgxLBQvPFv6DTLG07eP1)
+      TODO: Build more and describe more
+
       
-
-
 ## Professional Projects -- Presentation
 
 - [Optimising Deep Learning Object Detection](https://github.com/Oushesh/opti-vid/blob/main/README.md)
